@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/PassGen/PassGen.csproj.user
+/PassGen/obj
+/PassGen/bin/Debug/net6.0-windows
